@@ -1,3 +1,4 @@
 # sandys
-this is my first git repository
-author - Sandy
+This is my first Git Repository
+<br>
+Author - Sandy
